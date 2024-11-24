@@ -1,0 +1,11 @@
+{
+  "name": "rollup1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "author": "alina",
+  "license": "ISC",
+  "description": "Rollup"
+}
